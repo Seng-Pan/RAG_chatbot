@@ -1,0 +1,14 @@
+jupyter
+faiss-cpu
+langchain
+langchain-community
+langchain-text-splitters
+langchain-core
+langgraph
+tqdm
+pandas
+numpy
+typing-extensions
+urllib3
+transformers
+google-generativeai
